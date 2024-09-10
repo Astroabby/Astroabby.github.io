@@ -1,0 +1,6 @@
+# _config.yml
+title: Mi Sitio Web
+description: Descripción de mi sitio web.
+baseurl: "" # Cambia a "/docs" si tu sitio está en la carpeta docs
+url: "https://tuusuario.github.io" # Cambia esto por la URL de tu sitio
+theme: jekyll-theme-cayman # Puedes cambiar el tema según tus preferencias
